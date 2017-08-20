@@ -2,7 +2,7 @@
 /*
  * This file is part of Laravel Freshdesk.
  *
- * (c) Bob Fridley <robert.fridley@gmail.com>
+ * (c) Bob Fridley <bobfridley@gmail.com>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
@@ -17,7 +17,7 @@ use Laravel\Lumen\Application as LumenApplication;
 /**
  * This is the freshdesk service provider class.
  *
- * @author Bob Fridley <robert.fridley@gmail.com>
+ * @author Bob Fridley <bobfridley@gmail.com>
  */
 class FreshdeskServiceProvider extends ServiceProvider
 {
