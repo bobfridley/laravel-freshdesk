@@ -1,5 +1,5 @@
 {
-    "name": "bobfridley/freshdesk",
+    "name": "bobfridley/laravel-freshdesk",
     "description": "A Freshdesk bridge for Laravel 5",
     "keywords": [
         "laravel",
